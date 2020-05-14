@@ -15,3 +15,6 @@ If using your own voice recording ensure:
 Two sample voice recording has been included in /SampleTestAudio
 
 Reference to convert word to ARPABET phoneme list: http://www.speech.cs.cmu.edu/cgi-bin/cmudict
+
+Model design reference: Graves, Alex, et al. "Connectionist temporal classification: labelling unsegmented sequence data with recurrent neural networks." Proceedings of the 23rd international conference on Machine learning. 2006.
+
